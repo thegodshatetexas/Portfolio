@@ -1,4 +1,4 @@
-Portfolio
+Code Portfolio
 =========
 
-Code
+Code portfolio for Greg Hayes @ greghayes.co
